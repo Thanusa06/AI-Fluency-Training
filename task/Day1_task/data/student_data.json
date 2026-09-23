@@ -1,0 +1,14 @@
+{
+  "student": "Arun",
+  "subjects": {
+    "C": 45,
+    "Python": 72,
+    "Maths": 38,
+    "AI": 81
+  },
+  "tasks": [
+    "Complete C assignment",
+    "Study Maths Unit 3",
+    "Prepare AI presentation"
+  ]
+}
