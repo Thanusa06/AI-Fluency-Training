@@ -1,0 +1,9 @@
+{
+  "student": "Arun",
+  "subjects": {
+    "C": 45,
+    "Python": 72,
+    "Maths": 38,
+    "AI": 81
+  }
+}
